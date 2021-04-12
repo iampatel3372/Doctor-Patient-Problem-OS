@@ -1,0 +1,43 @@
+CS558 : COMPUTER SYSTEM LAB ASSIGNMENT - 04
+Instructor : Dr. Manas Khatua and Dr. Moumita Patra
+TA's : Alakesh Kalita, Arunav Saikia, Meenu Rani Dey, Priya Undriwade, Vinay Kumar Gupta
+Sumbittted By : Himanshu Patel(204101029), Ketan Karnakota(204101030)
+----------------------------------------------------------------------------------------
+Please enter the number of seats: 
+6
+Please enter the total patients: 
+10
+Patient[pid = 123145398009856] is waiting.
+Available seats: 6
+Patient[pid = 123145398009856] is being treated. 
+Patient[pid = 123145398546432] is waiting.
+Available seats: 5
+Patient[pid = 123145398546432] is being treated. 
+Patient[pid = 123145399083008] is waiting.
+Available seats: 4
+Patient[pid = 123145399083008] is being treated. 
+Patient[pid = 123145399619584] is waiting.
+Available seats: 3
+Patient[pid = 123145399619584] is being treated. 
+Patient[pid = 123145400156160] is waiting.
+Available seats: 2
+Patient[pid = 123145400156160] is being treated. 
+Patient[pid = 123145400692736] is waiting.
+Available seats: 1
+Patient[pid = 123145400692736] is being treated. 
+Patient[pid = 123145401229312] is waiting.
+Available seats: 0
+Patient[pid = 123145401229312] is being treated. 
+A Patient left due to unavailability of chairs...
+A Patient left due to unavailability of chairs...
+A Patient left due to unavailability of chairs...
+Patient was Treated...
+Patient was Treated...
+Patient was Treated...
+Patient was Treated...
+Patient was Treated...
+Patient was Treated...
+Patient was Treated...
+
+------------------------------------------------
+Number of patients that were forced to leave: 3
